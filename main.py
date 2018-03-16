@@ -22,6 +22,9 @@ def fun(member):
 #  $ python3 main.py -t 1 < population2.txt
 #  $ python3 main.py -t 2 < population2.txt
 #  $ python3 main.py -t 3 < population2.txt
+#  $ python3 main.py -t 1 < population.txt
+#  $ python3 main.py -t 2 < population.txt
+#  $ python3 main.py -t 3 < population.txt
 
 
 def main():
